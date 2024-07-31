@@ -1,9 +1,8 @@
 Problem1
 
 Steps the setup the automation
-1) software needed
-2) VS code or PyCharm, python
-3) set the environment variable for python
+1) software needed - VS code or PyCharm, Python
+2) Set the environment variable for Python
 
 Setup in VS code
 1) Need to install requests using pip install requests and other imports if needed
@@ -12,4 +11,4 @@ Setup in VS code
 
 Problem2 
 
-I'm able to take up only one problem since I have working with Browser automation
+I'm able to take up only one problem since I have worked on browser automation
